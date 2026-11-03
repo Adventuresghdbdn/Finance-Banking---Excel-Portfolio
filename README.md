@@ -184,10 +184,10 @@ An executive-level summary dashboard featuring:
 
 ## 👤 About
 
-Admir Istrefi
+
 Data Analysis Enthusiast
-📧 admir.istrefi@gmail.com
-📍 Prishtina, Kosovo
+📧 singhsaurabh13293@gmail.com
+📍 Jamshedpur, Jharkhand
 
 ---
 
